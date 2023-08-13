@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kuGianggg
+- 👋 Hi, I’m @FleuveTa
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning at university 
 
